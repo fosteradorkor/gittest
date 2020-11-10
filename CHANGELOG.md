@@ -1,4 +1,13 @@
-# 1.1.0 (2020-11-10)
+# [1.2.0](https://github.com/fosteradorkor/gittest/compare/1.1.0...1.2.0) (2020-11-10)
+
+
+### Features
+
+* new spaces ([f2cb764](https://github.com/fosteradorkor/gittest/commit/f2cb7649a2520aa2cc97526b9d2c432ab0d58fd2))
+
+
+
+# [1.1.0](https://github.com/fosteradorkor/gittest/compare/eea19b049a32dbea78188cd20d94657eff9b46d9...1.1.0) (2020-11-10)
 
 
 ### Bug Fixes
