@@ -1,3 +1,17 @@
+# [2.0.0](https://github.com/fosteradorkor/gittest/compare/1.2.0...2.0.0) (2020-11-11)
+
+
+### Features
+
+* testing major version bump ([448a57b](https://github.com/fosteradorkor/gittest/commit/448a57b989491c0ee9ae0934c30e472bb42bd0c3))
+
+
+### BREAKING CHANGES
+
+* new file added hello.js
+
+
+
 # [1.2.0](https://github.com/fosteradorkor/gittest/compare/1.1.0...1.2.0) (2020-11-10)
 
 
